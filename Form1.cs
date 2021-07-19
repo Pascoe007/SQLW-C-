@@ -20,6 +20,7 @@ namespace SQL_DataBase_Link
             InitializeComponent();
         }
         private void Search_Database(string query)
+        //THis check the database for the first name lastname and address
         {
             try
             {
